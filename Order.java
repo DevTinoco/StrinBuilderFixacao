@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import model.enums.OrderStatus;
+import model.OrderStatus;
 
 public class Order {
 	
